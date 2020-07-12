@@ -1,4 +1,4 @@
-name: Pearson-ML
+name: SKLearn
 channels:
   - intel
   - conda-forge
