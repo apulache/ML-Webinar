@@ -8,3 +8,5 @@ external/*
 .DS_STORE
 **/*.swp
 **/*.pyc
+.vscode/settings.json
+Untitled*.ipynb
